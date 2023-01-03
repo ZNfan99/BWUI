@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MsgCenter" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAABAAAAAAABAAAAAAAUAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Farmework\Common\MsgCenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RaycastHandle" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Farmework\Common\RaycastHandle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ResourceMgr" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAgAAAAAAAAAAAAAAAABAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\Farmework\Common\ResourceMgr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SingLetong&lt;T&gt;" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Farmework\Common\SingLetong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIBaseCtrl" Collapsed="true">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Farmework\UI\Base\UIBaseCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIBaseMode" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Farmework\UI\Base\UIBaseMode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIButton" Collapsed="true">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Farmework\UI\Component\UIButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIGroup" Collapsed="true">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAIAAAAAAAAACAAAAAACAAAAQAIBAgAAAgAAA=</HashCode>
+      <FileName>Assets\Farmework\UI\Component\UIGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIGroupItem" Collapsed="true">
+    <Position X="14.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Farmework\UI\Component\UIGroupItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIImage" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Farmework\UI\Component\UIImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIRaycastClick" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Farmework\UI\Component\UIRaycastClick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIText" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\Farmework\UI\Component\UIText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAICAAAAAAAAAAAACAAAAAQAAIAACAAAA=</HashCode>
+      <FileName>Assets\Farmework\UI\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMain" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\GameMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestLargeAmount" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgEACAAAAQAAAAAACAAAAACAABAgAEAAQAEAAA=</HashCode>
+      <FileName>Assets\Scripts\ScrollViewTest\TestLargeAmount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestScript" Collapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAgAAgUCDAAIAAAAEEAAAAAAAAABABAAAEAAQAAAQA=</HashCode>
+      <FileName>Assets\Scripts\ScrollViewTest\TestScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BagConfig" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UISystem\Bag\BagConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BagGroupItem" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAABAAAAAAAAAAAAAAAAACAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UISystem\Bag\Component\BagGroupItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BagCtrl" Collapsed="true">
+    <Position X="3.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UISystem\Bag\Controller\BagCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemData" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UISystem\Bag\Mode\BagMode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BagMode" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UISystem\Bag\Mode\BagMode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BagView" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABABAAAAAAAAAAAAAAAAAAACBAAAAgAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\UISystem\Bag\View\BagView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AillieoUtils.SimpleObjPool&lt;T&gt;" Collapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAEAAAABEAAAAAAAAQABgAAAIAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Farmework\ObjPool\SimpleObjPool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AillieoUtils.ScrollView" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BkSBFAUBdRACggAAIpAK1GsAAIAARApCAQEBMMSAAAA=</HashCode>
+      <FileName>Assets\Farmework\ScrollView\ScrollView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AillieoUtils.ScrollViewEx" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAACAAAAAAAAQAAAAAAAAAMCAAAAIAAAAFQ=</HashCode>
+      <FileName>Assets\Farmework\ScrollView\ScrollViewEx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyFramework.UIBaseComponent" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAAAAAAAAAKAAAACBAAMAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Farmework\UI\Base\UIBaseComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyFramework.UIBaseContainer" Collapsed="true">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAIAAAAAACABAAAACAAAEAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Farmework\UI\Base\UIBaseContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyFramework.UIBaseView" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAAIAAAAQAAAAAAAAAAACBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Farmework\UI\Base\UIBaseView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="DefaultScrollItemData" Collapsed="true">
+    <Position X="17" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ScrollViewTest\TestScript.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="EventType" Collapsed="true">
+    <Position X="17" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Farmework\Common\MsgCenter.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="UILayer" Collapsed="true">
+    <Position X="18.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAIgAAAACAAQEAAAAA=</HashCode>
+      <FileName>Assets\Farmework\UI\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
